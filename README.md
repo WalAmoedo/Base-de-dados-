@@ -1,6 +1,6 @@
 # 📊 Base de Dados Fictícia - Corretora de Valores
 
-Este repositório contém uma base de dados **fictícia** com 15.000 clientes de uma corretora de valores no Brasil.  
+Este repositório contém uma base de dados **fictícia** gerada por IA com 15.000 clientes de uma corretora de valores no Brasil.  
 O objetivo é simular um dataset realista, com **inconsistências propositalmente adicionadas**, ideal para estudos de **limpeza, tratamento e análise de dados**.
 
 ---
